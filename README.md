@@ -1,10 +1,11 @@
 # Task-2-Data-Visualization-and-Storytelling
-📊 Tableau Dashboard – Superstore Sales Analysis
+📊 Power-BI Dashboard – Superstore Sales Analysis
 Created by: Sufiyan
 
-This Tableau dashboard explores business performance using the Superstore sales dataset. It highlights key metrics like sales, profit, discount trends, and category-wise contributions.
+This dashboard explores business performance using the Superstore sales dataset. It highlights key metrics like sales, profit, discount trends, and category-wise contributions.
 
 🔍 Dashboard Highlights:
+
 Total Sales by City
 A bar chart showing which cities drive the most revenue.
 
@@ -21,7 +22,7 @@ Impact of Discount on Sales and Profit
 Scatter plots showing the trade-off between offering discounts and maintaining profitability.
 
 🛠 Tools Used:
-Tableau Desktop
+Power-BI Desktop
 Superstore.csv dataset
 💡 Key Insights:
 Discounts can increase sales but also reduce profit margins.
